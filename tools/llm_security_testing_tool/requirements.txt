@@ -1,0 +1,5 @@
+openpyxl
+openai
+unittest
+transformers 
+cohere 
