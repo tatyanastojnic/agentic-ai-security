@@ -23,4 +23,5 @@ In tools there is security tests function which contains a library of possible t
 
 ## Useful Resources
 AI-DEFENSE Framework: https://github.com/edward-playground/aidefense-framework?tab=readme-ov-file A useful knowledge-base of AI threats mapped to known threats from established frameworks like MITRE ATLAS, MAESTRO, and the OWASP Top 10 for LLMs and ML.
+
 OWASP Agentic AI Threats and Mitigations: https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/ 
