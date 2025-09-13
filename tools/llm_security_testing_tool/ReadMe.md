@@ -30,19 +30,33 @@ python run_tests.py
 # Directory Structure:
 
 ├── adapters/
+
 │   ├── __init__.py
+
 │   ├── openai_adapter.py
+
 │   ├── huggingface_adapter.py
+
 │   └── cohere_adapter.py
+
 ├── tests/
+
 │   ├── __init__.py
+
 │   └── security_tests.py
+
 ├── utils/
+
 │   ├── __init__.py
+
 │   ├── evaluator.py
+
 │   └── report_generator.py
+
 ├── run_tests.py
+
 └── config.py
+
 
 # 1. Test Categories
 
