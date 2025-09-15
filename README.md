@@ -26,7 +26,12 @@ In tools there is security tests function which contains a library of possible t
 ### LLM Security Testing Tool
 A unit testing tool which can be used to test an LLM against a series of different cyber attacks including prompt injection and exfiltration. 
 
+## Checklists
+
+
 ## Useful Resources
 AI-DEFENSE Framework: https://github.com/edward-playground/aidefense-framework?tab=readme-ov-file A useful knowledge-base of AI threats mapped to known threats from established frameworks like MITRE ATLAS, MAESTRO, and the OWASP Top 10 for LLMs and ML.
 
 OWASP Agentic AI Threats and Mitigations: https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/ 
+
+Securing Agentic AI: Strategies to Prevent Unauthorized Access and Misuse https://akitra.com/securing-agentic-ai/ 
